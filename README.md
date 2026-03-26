@@ -3,7 +3,6 @@
 ## 📌 Overview
 **ArenaConnect** is a one-stop platform built for gamers to track their gaming performance across multiple games and participate in community-driven events. Users can fetch real-time game stats and register for upcoming tournaments from a centralized dashboard. Whether you're a casual gamer or a competitive player, ArenaConnect brings your gaming life together.
 
-
 ---
 
 ## 🚀 Features
